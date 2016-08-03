@@ -1,0 +1,14 @@
+layout_spectrum: 0.01982962409965694
+typography_spectrum: 0.4620688308496028
+color:
+  brandStrength: 0.06715590669773519
+  lightness: 0.9125002403743565
+  saturation: 0.22840655711479485
+  rhythmicContrast: 0.18683827482163906
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: party robotics
